@@ -1,4 +1,4 @@
 networkx
 matplotlib
-simpy
+sympy
 git+https://github.com/rvf0068/pycliques
